@@ -36,4 +36,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull r
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the code style and include appropriate tests.
